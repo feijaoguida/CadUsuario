@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "../../assets/img/logoColorGit.png";
+import logo from "../../assets/img/Git-Logo-Black.png";
 import "./Logo.css";
 
 export default (props) => (
